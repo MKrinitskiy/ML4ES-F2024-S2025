@@ -15,7 +15,9 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 1 | 17.09.2024 | Вводная лекция. Машинное обучение в науках о Земле. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect01)<br />[видеозапись](https://ml4es.ru/links/2024-09-17-ML4ES2024-Lect01) |
 | Лекция 2 | 24.09.2024 | Классы и типы задач МО: контролируемое обучение | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect02)<br />[видеозапись](https://ml4es.ru/links/2024-09-24-ML4ES2024-Lect02) |
 | Лекция 3 | 01.10.2024 | Классы и типы задач МО: неконтролируемое обучение | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect03)<br />[видеозапись](https://ml4es.ru/links/2024-10-01-ML4ES2024-Lect03) |
-| ДЗ №1 | 01.10.2024<br />дедлайн: **08.10.2024** | Постановка задач машинного обучения | [описание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/blob/main/HW01/HW01-README.md) |
+| ДЗ №1 | 01.10.2024<br />дедлайн: **08.10.2024** | Постановка задач машинного обучения | [описание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/blob/main/HW01/HW01-README.md)<br />[leaderboard]() |
+| Лекция 4 | 08.10.2024 | Общий принцип обучения по прецедентам для контролируемого обучения<br />Подход максимального правдоподобия<br />Модель линейной регрессии | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect03)<br />[видеозапись](https://ml4es.ru/links/2024-10-08-ML4ES2024-Lect04) |
+| ДЗ №2 | 08.10.2024<br />дедлайн: **15.10.2024** | Вывод функции потерь для линейной регрессии в предположении о Лапласовском распределении целевой переменной | [Задание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW02/HW02-README.md)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW02/leaderboard.md) |
 
 
 
