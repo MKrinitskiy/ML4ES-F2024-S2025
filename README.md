@@ -19,6 +19,9 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 4 | 08.10.2024 | Общий принцип обучения по прецедентам для контролируемого обучения<br />Подход максимального правдоподобия<br />Модель линейной регрессии | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect04)<br />[видеозапись](https://ml4es.ru/links/2024-10-08-ML4ES2024-Lect04) |
 | ДЗ №2 | 08.10.2024<br />дедлайн: **15.10.2024** | Вывод функции потерь для линейной регрессии в предположении о Лапласовском распределении целевой переменной | [Задание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW02/HW02-README.md)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW02/leaderboard.md) |
 | Лекция 5 | 22.10.2024 | Признаковое описание объектов и событий в машинном обучении<br/>Общая последовательность решения задач обучения с учителем | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect05)<br />[видеозапись](https://ml4es.ru/links/2024-10-08-ML4ES2024-Lect05) |
+| Лекция 6 | 12.11.2024 | Оценка качества моделей машинного обучения<br />Оценка неопределенностей в задачах машинного обучения | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect06)<br />[видеозапись](https://ml4es.ru/links/2024-11-12-ML4ES2024-Lect06) |
+| ДЗ №3 | 12.11.2024<br />дедлайн: **10.12.2024** | Оценка неопределенностей в задчах машинного обучения | [Задание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW03/README.md)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/leaderboard.md) |
+| Лекция 7 | 19.11.2024 | Градиентная оптимизация параметрических моделей машинного обучения. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect07)<br />[видеозапись](https://ml4es.ru/links/2024-11-19-ML4ES2024-Lect07) |
 
 
 
