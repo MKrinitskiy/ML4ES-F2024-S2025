@@ -7,6 +7,20 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 
 [Правила распространения источников](./resources_policy.md)<br />
 
+
+
+Состав домашних заданий зафиксирован на трех.
+
+В [плане](./homeworks_policy.md) по домашним заданиям и их оценке отражен текущий состав ДЗ за 1 семестр с аннотацией баллов на автозачет и допуск к зачету.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/master/leaderboard_1semester.md) уже сейчас можно ознакомиться с отметками об автозачетах, допуске к зачету и зачетах.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES1-F2023-S2024/blob/master/term1_exam.md) уже сейчас можно ознакомиться со списком вопросов к зачету за первый семестр.
+
+
+
+
+
 -------
 
 | Title | Date | Topic | Content |
@@ -22,6 +36,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 6 | 12.11.2024 | Оценка качества моделей машинного обучения<br />Оценка неопределенностей в задачах машинного обучения | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect06)<br />[видеозапись](https://ml4es.ru/links/2024-11-12-ML4ES2024-Lect06) |
 | ДЗ №3 | 12.11.2024<br />дедлайн: **10.12.2024** | Оценка неопределенностей в задчах машинного обучения | [Задание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW03/README.md)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/leaderboard.md) |
 | Лекция 7 | 19.11.2024 | Градиентная оптимизация параметрических моделей машинного обучения. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect07)<br />[видеозапись](https://ml4es.ru/links/2024-11-19-ML4ES2024-Lect07) |
+| Лекция 8 | 03.12.2024 |  |  |
 
 
 
