@@ -39,6 +39,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 8 | 03.12.2024 | Неопределенность в задачах машинного обучения. Происхождение неопределенностей в линейной регрессии. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect08)<br />[видеозапись](https://ml4es.ru/links/2024-12-03-ML4ES2024-Lect08) |
 |  |  | II семестр |  |
 | Лекция 9 | 11.02.2025 | Задача классификации.<br />метод K ближайших соседей;<br />байесовский классификатор | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect09)<br />[видеозапись](https://ml4es.ru/links/2025-02-11-ML4ES2024-Lect09) |
+| Лекция 10 | 18.02.2025 | Задача классификации.<br />наивный байесовский классификатор + реализация в коде | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect10)<br />[видеозапись](https://ml4es.ru/links/2025-02-18-ML4ES2024-Lect10) |
 
 
 
