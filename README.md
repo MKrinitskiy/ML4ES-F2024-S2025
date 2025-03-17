@@ -42,6 +42,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 10 | 18.02.2025 | Задача классификации.<br />наивный байесовский классификатор + реализация в коде | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect10)<br />[видеозапись](https://ml4es.ru/links/2025-02-18-ML4ES2024-Lect10) |
 | Лекция 11 | 25.02.2025 | Задача классификации.<br />Логистическая регрессия + реализация в коде | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect11)<br />[видеозапись](https://ml4es.ru/links/2025-02-25-ML4ES2024-Lect11) |
 | Лекция 12 | 04.03.2025 | Мультиномиальная классификация.<br />Мультиномиальная логистическая регрессия + реализация в коде | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect12)<br />[видеозапись](https://ml4es.ru/links/2025-03-04-ML4ES2024-Lect12) |
+| Лекция 13 | 11.03.2025 | Меры качества в задачах классификации | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect13)<br />[видеозапись](https://ml4es.ru/links/2025-03-11-ML4ES2024-Lect13) |
 
 
 
