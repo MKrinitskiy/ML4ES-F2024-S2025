@@ -46,7 +46,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 14 | 18.03.2025 | Непараметрические методы машинного обучения. Дерево решений. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect14)<br />[видеозапись](https://ml4es.ru/links/2025-03-18-ML4ES2024-Lect14) |
 | Лекция 15 | 25.03.2025 | Ансамбли моделей. Бэггинг, бустинг, случайные леса. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect15)<br />[видеозапись](https://ml4es.ru/links/2025-03-25-ML4ES2024-Lect15) |
 | Лекция 16 | 08.04.2025 | Непараметрические модели машинного обучения. Практика. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect16)<br />[видеозапись](https://ml4es.ru/links/2025-04-08-ML4ES2024-Lect16) |
-| ДЗ №4 | 15.04.2025<br />дедлайн: **30.04.2025** | Свойства логистической регрессии | [Задание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/README.md)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/leaderboard.md) |
+| ДЗ №4 | 15.04.2025<br />дедлайн: **30.04.2025** | Свойства логистической регрессии | [Задание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/leaderboard.md) |
 | Лекция 17 | 15.04.2025 | Обобщенные линейные модели. Обобщенные аддитивные модели. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect17)<br />[видеозапись](https://ml4es.ru/links/2025-04-15-ML4ES2024-Lect17) |
 
 
