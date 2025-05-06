@@ -48,6 +48,8 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 | Лекция 16 | 08.04.2025 | Непараметрические модели машинного обучения. Практика. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect16)<br />[видеозапись](https://ml4es.ru/links/2025-04-08-ML4ES2024-Lect16) |
 | ДЗ №4 | 15.04.2025<br />дедлайн: **30.04.2025** | Свойства логистической регрессии | [Задание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/leaderboard.md) |
 | Лекция 17 | 15.04.2025 | Обобщенные линейные модели. Обобщенные аддитивные модели. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect17)<br />[видеозапись](https://ml4es.ru/links/2025-04-15-ML4ES2024-Lect17) |
+| Лекция 18 | 22.04.2025 | Полносвязная искусственная нейронная сеть.<br />Интерпретация моделей машинного обучения. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect18)<br />[видеозапись](https://ml4es.ru/links/2025-04-22-ML4ES2024-Lect18) |
+| Лекция 19 | 29.04.2025 | Интерпретация моделей машинного обучения. | [материалы](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/Lect19)<br />[видеозапись](https://ml4es.ru/links/2025-04-29-ML4ES2024-Lect19) |
 | ДЗ №5 | 06.05.2025<br />дедлайн: **19.05.2025** | Классификация с использованием библиотеки Scikit-learn и интерпретация признаков | [Задание](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW05)<br />[leaderboard](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW05/leaderboard.md) |
 
 
