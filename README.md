@@ -9,7 +9,7 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 
 
 
-Состав домашних заданий зафиксирован на трех.
+Состав домашних заданий за I семестр зафиксирован на трех.
 
 В [плане](./homeworks_policy.md) по домашним заданиям и их оценке отражен текущий состав ДЗ за 1 семестр с аннотацией баллов на автозачет и допуск к зачету.
 
@@ -19,7 +19,13 @@ Machine learning for Earth Sciences F2023-S2024 by [Mikhail Krinitskiy](https://
 
 
 
+Состав домашних заданий за II семестр зафиксирован на двух: [ДЗ4](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW04/) и [ДЗ5](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/tree/main/HW05)
 
+В [плане](./homeworks_policy.md) по домашним заданиям и их оценке отражен текущий состав ДЗ за 1 семестр с аннотацией баллов на автозачет и допуск к зачету.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/blob/main/leaderboard_2semester.md) уже сейчас можно ознакомиться с отметками об автозачетах, допуске к зачету и зачетах.
+
+[Здесь](https://github.com/MKrinitskiy/ML4ES-F2024-S2025/blob/main/term2_exam.md) уже сейчас можно ознакомиться со списком вопросов к зачету за первый семестр.
 
 -------
 
